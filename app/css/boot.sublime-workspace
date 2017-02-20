@@ -1,0 +1,807 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"quan",
+				"quan_id"
+			],
+			[
+				"pro",
+				"product_name"
+			],
+			[
+				"ta",
+				"tableArea"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"tab",
+				"tableArea"
+			],
+			[
+				"p",
+				"product_name"
+			],
+			[
+				"P",
+				"product"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bo",
+				"border-right"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"le",
+				"border-left"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"lin",
+				"link_to"
+			],
+			[
+				"order",
+				"ordered_items"
+			],
+			[
+				"b",
+				"belongs_to"
+			],
+			[
+				"pur",
+				"Purchase"
+			],
+			[
+				"tra",
+				"Trans_Id"
+			],
+			[
+				"purchases",
+				"purchases_path"
+			],
+			[
+				"add",
+				"Added_date"
+			],
+			[
+				"Pro",
+				"Prod_name"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"article_",
+				"article_path"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"imp",
+				"implements\tkeyword"
+			],
+			[
+				"const",
+				"constructor\tkeyword"
+			],
+			[
+				"Tab",
+				"TableData\talias"
+			],
+			[
+				"templa",
+				"templateUrl\tproperty"
+			],
+			[
+				"im",
+				"import\tkeyword"
+			],
+			[
+				"cost",
+				"constructor\tkeyword"
+			],
+			[
+				"cons",
+				"constructor\tkeyword"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"bor",
+				"border-width"
+			],
+			[
+				"ed",
+				"editMode"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"bottom",
+				"margin-bottom"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"btn",
+				"btn-warning"
+			],
+			[
+				"wcp-image",
+				"wcp-image-text-price"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"r",
+				"row"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"subconte",
+				"subcontent1"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"background",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/codingmart/Desktop/arjun/shop/app/views/products/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 758,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codingmart/Desktop/arjun/shop/app/controllers/products_controller.rb",
+			"settings":
+			{
+				"buffer_size": 128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codingmart/Desktop/arjun/shop/app/assets/javascripts/script.js",
+			"settings":
+			{
+				"buffer_size": 2305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/codingmart/Desktop/arjun/shop/app/assets/stylesheets/styles.css",
+			"settings":
+			{
+				"buffer_size": 41,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 138.0,
+		"last_filter": "Package Control: ins",
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/codingmart/Desktop/arjun/shop",
+		"/home/codingmart/Desktop/arjun/shop/app",
+		"/home/codingmart/Desktop/arjun/shop/app/assets",
+		"/home/codingmart/Desktop/arjun/shop/app/assets/stylesheets",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers",
+		"/home/codingmart/Desktop/arjun/shop/app/models",
+		"/home/codingmart/Desktop/arjun/shop/app/views",
+		"/home/codingmart/Desktop/arjun/shop/app/views/layouts",
+		"/home/codingmart/Desktop/arjun/shop/app/views/products",
+		"/home/codingmart/Desktop/arjun/shop/app/views/welcome",
+		"/home/codingmart/Desktop/arjun/shop/config",
+		"/home/codingmart/Desktop/arjun/shop/config/environments",
+		"/home/codingmart/Desktop/arjun/shop/db",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate"
+	],
+	"file_history":
+	[
+		"/home/codingmart/Desktop/arjun/day4-jQuery/myApp/myapp.js",
+		"/home/codingmart/Desktop/arjun/first/app/ts/app.component.ts",
+		"/home/codingmart/Desktop/arjun/first/app/ts/app.components.html",
+		"/home/codingmart/Desktop/arjun/first/app/ts/main.ts",
+		"/home/codingmart/Desktop/arjun/first/app/ts/members.ts",
+		"/home/codingmart/Desktop/arjun/first/app/ts/table.component.ts",
+		"/home/codingmart/Desktop/arjun/first/app/js/table.component.js",
+		"/home/codingmart/Desktop/arjun/first/app/js/app.component.js",
+		"/home/codingmart/Desktop/arjun/first/app/js/main.js",
+		"/home/codingmart/Desktop/arjun/shop/app/assets/stylesheets/styles.css",
+		"/home/codingmart/Desktop/arjun/shop/config/routes.rb",
+		"/home/codingmart/Desktop/arjun/first/index.html",
+		"/home/codingmart/Desktop/arjun/shop/app/assets/javascripts/application.js",
+		"/home/codingmart/Desktop/arjun/shop/app/assets/javascripts/script.js",
+		"/home/codingmart/Desktop/arjun/shop/app/views/layouts/application.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/app/assets/javascripts/jquery-ui.min.js",
+		"/home/codingmart/Desktop/arjun/store/app/assets/javascripts/script.js",
+		"/home/codingmart/Desktop/arjun/day4-jQuery/index.html",
+		"/home/codingmart/Desktop/sri/jquery-ui-1.12.1.custom/index.html",
+		"/home/codingmart/Desktop/arjun/store/app/views/products/index.html.erb",
+		"/home/codingmart/Desktop/sri/jquery-ui-1.12.1.custom/external/jquery/jquery.js",
+		"/home/codingmart/Desktop/arjun/shop/Gemfile",
+		"/home/codingmart/Desktop/arjun/store/app/models/product.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/cart.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/customer.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/order.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/ordered_item.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/ordered_item.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/order.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/customer.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/cart.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/products/index.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers/products_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/welcome/index.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/config/environments/development.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers/application_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213093229_devise_create_customers.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213092340_devise_create_customers.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/schema.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213084911_create_ordered_items.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213084843_create_products.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213084855_create_carts.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170210130438_create_carts.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213090618_create_customers.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170209083925_create_ordered_items.rb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170213084613_create_orders.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170209104849_create_orders.rb",
+		"/home/codingmart/Desktop/arjun/store/app/controllers/products_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/app/controllers/carts_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/config/routes.rb",
+		"/home/codingmart/Desktop/arjun/store/app/views/products/_product.html.erb",
+		"/home/codingmart/Desktop/arjun/store/db/schema.rb",
+		"/home/codingmart/Desktop/arjun/store/app/assets/stylesheets/styles.css",
+		"/home/codingmart/Desktop/arjun/store/app/views/carts/_cart.html.erb",
+		"/home/codingmart/Desktop/sri/inventory-master/app/controllers/users_controller.rb",
+		"/home/codingmart/Desktop/sri/inventory-master/app/controllers/sessions_controller.rb",
+		"/home/codingmart/Desktop/sri/inventory-master/app/controllers/items_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/app/controllers/application_controller.rb",
+		"/home/codingmart/Desktop/sri/inventory-master/app/controllers/application_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/app/views/welcome/index.html.erb",
+		"/home/codingmart/Desktop/arjun/store/app/controllers/orders_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/app/views/carts/view.html.erb",
+		"/home/codingmart/Desktop/arjun/store/app/views/carts/index.html.erb",
+		"/home/codingmart/Desktop/arjun/store/app/controllers/welcome_controller.rb",
+		"/home/codingmart/Desktop/arjun/store/app/views/css/styles.css",
+		"/home/codingmart/Desktop/arjun/first/app/css/main.css",
+		"/home/codingmart/Desktop/arjun/store/Gemfile",
+		"/home/codingmart/Desktop/arjun/day2/index.html",
+		"/home/codingmart/Desktop/arjun/store/app/views/css/bootstrap.css",
+		"/home/codingmart/Desktop/arjun/day3-bootstrap/index.html",
+		"/home/codingmart/Desktop/arjun/firstProj/index.html",
+		"/home/codingmart/Desktop/arjun/store/config.ru",
+		"/home/codingmart/Desktop/arjun/store/config/environments/development.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170209083617_create_products.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/application_record.rb",
+		"/home/codingmart/Desktop/arjun/store/app/views/orders/index.html.erb",
+		"/home/codingmart/Desktop/arjun/market/config/database.yml",
+		"/home/codingmart/Desktop/arjun/shop/app/views/purchases/index.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/purchases/show.html.erb",
+		"/home/codingmart/Desktop/arjun/store/app/models/customer_detail.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/transaction.rb",
+		"/home/codingmart/Desktop/arjun/store/app/models/purchase.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170209060255_create_transactions.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170209063114_create_purchases.rb",
+		"/home/codingmart/Desktop/arjun/store/db/migrate/20170208144600_create_products.rb",
+		"/home/codingmart/Desktop/arjun/store/config/database.yml",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers/stocks_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/purchase.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers/purchases_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/stocks/index.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/stocks/show.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170208061324_create_bill_tables.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/controllers/welcome_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/purchase/index.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/welcome/index.html.erb",
+		"/home/codingmart/Desktop/sri/rails_friends-master/app/controllers/users_controller.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/views/stocks/new.html.erb",
+		"/home/codingmart/Desktop/arjun/shop/db/migrate/20170207111444_create_add_stocks.rb",
+		"/home/codingmart/Desktop/arjun/shop/app/models/add_stock.rb",
+		"/home/codingmart/Desktop/arjun/shop/config/boot.rb",
+		"/home/codingmart/Desktop/arjun/shop/config/database.yml",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/articles/_form.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/articles/index.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/models/article.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/controllers/comments_controller.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/controllers/articles_controller.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/comments/_form.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/articles/show.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/comments/_comment.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/layouts/_form.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/config/routes.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/articles/new.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/views/articles/edit.html.erb",
+		"/home/codingmart/Desktop/arjun/myapp12/db/migrate/20170202064303_create_articles.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/controllers/article_controller.rb",
+		"/home/codingmart/Desktop/arjun/myapp12/app/controllers/welcome_controller.rb",
+		"/home/codingmart/blog/config/database.yml",
+		"/etc/apt/sources.list",
+		"/home/codingmart/Desktop/arjun/Untitled Folder/ruby_server-master/create_server.rb",
+		"/home/codingmart/Desktop/arjun/day3-bootstrap/main.css",
+		"/home/codingmart/Desktop/arjun/first/tsconfig.json",
+		"/home/codingmart/Desktop/ruby.rb",
+		"/home/codingmart/Desktop/ruby3.rb",
+		"/home/codingmart/Desktop/ruby2.rb",
+		"/home/codingmart/Desktop/arjun/ABCD/app/ts/app.components.html",
+		"/home/codingmart/Desktop/arjun/ABCD/app/ts/table.component.html",
+		"/home/codingmart/Desktop/arjun/ABCD/app/ts/table.component.ts",
+		"/home/codingmart/Desktop/arjun/ABCD/app/ts/app.component.ts"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"showProducts",
+			"showCart",
+			"    \n",
+			"'\n",
+			"customer",
+			"Customer",
+			"end",
+			"item",
+			"resources",
+			"5",
+			"\t\n",
+			"end",
+			" %>",
+			"\t\n",
+			"order",
+			"ordered_item",
+			"Product",
+			"'/'",
+			"quan",
+			" \n",
+			"%>",
+			"stocks",
+			";\n",
+			"end",
+			"!!!</",
+			"\n  # def destroy\n  #   @article = Article.find(params[:article_id])\n  #   @comment = @article.comments.find(params[:id])\n  #   @comment.destroy\n  #   redirect_to article_path(@article)\n  # end\n",
+			">",
+			" \n",
+			"end",
+			"  \n",
+			"split",
+			"tname",
+			"parseInt",
+			"))\">",
+			");\n",
+			"appendOrReplace",
+			"\n ",
+			";\n",
+			"Phone",
+			"insertRow",
+			"padding",
+			"glyphicon",
+			"    \t",
+			"\">",
+			"        \n",
+			"600px",
+			"\n ",
+			"fixed",
+			"fixe",
+			"10px",
+			"fixed",
+			"height",
+			"183px",
+			";\n",
+			"\t\n",
+			"right",
+			"150px",
+			"black",
+			";\">"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/codingmart/Desktop/arjun/shop/app/views/products/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								530,
+								530
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/codingmart/Desktop/arjun/shop/app/controllers/products_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10,
+								10
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/codingmart/Desktop/arjun/shop/app/assets/javascripts/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2118,
+								2118
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 719.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/codingmart/Desktop/arjun/shop/app/assets/stylesheets/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "boot.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sche",
+				"db/schema.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

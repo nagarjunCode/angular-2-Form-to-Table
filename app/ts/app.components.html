@@ -1,0 +1,49 @@
+
+<div class="container mainForm" >
+			<label>Name &nbsp;:</label>
+			<input type="text" name="name-box" #name [(ngModel)]="tname"><br>
+			<label>E-mail :</label>
+			<input type="text" name="email-box"#email [(ngModel)]="temail"><br>
+			<label>Age &nbsp;&nbsp;&nbsp;&nbsp;:  </label>
+			<input type="text" name="age-box"#age [(ngModel)]="tage"><br>
+			<label>Phone :</label>
+			<input type="text" name="ph-box"#phno [(ngModel)]="tphno"><br>
+
+
+			<button class="btn btn-success insertButton" 
+			(click)="appendOrReplace(name.value,email.value,age.value,phno.value)">Insert</button>
+</div>
+
+<div class="container">
+	<table class="table table-striped tableProp">
+		<thead>
+		 <tr>
+	          <th>Name</th>
+	          <th>Email</th>
+	          <th>Age</th>
+	          <th>Phone</th>
+	          <th>&nbsp;</th>
+	          <th>&nbsp;</th>
+        </tr>
+		</thead>
+		<tbody>
+		
+		 <tr *ngFor="#data of tdata; #i = index">            
+			    <td>{{data.name}}</td> 
+                <td>{{data.email}}</td>
+                <td>{{data.age}}</td>
+                <td>{{data.phno}}</td>
+                <td>
+                	<span class="editOption" (click)="editRow(i)">
+                		edit
+                	</span>
+                </td>
+                <td>
+                	<span class="remove" (click)="deleteRow(i)">
+                		X
+                	</span>
+                </td>
+		</tr>
+		</tbody> 
+	</table>
+</div>
